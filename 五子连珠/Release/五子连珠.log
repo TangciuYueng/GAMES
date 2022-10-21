@@ -1,9 +1,0 @@
-﻿  color_ball-base.cpp
-E:\homework\GAMES\五子连珠\color_ball-base.cpp(654,21): warning C4018: “<”: 有符号/无符号不匹配
-E:\homework\GAMES\五子连珠\color_ball-base.cpp(1031,20): warning C4018: “<”: 有符号/无符号不匹配
-  正在生成代码
-  2 of 482 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  五子连珠.vcxproj -> E:\homework\GAMES\Release\五子连珠.exe
