@@ -1,0 +1,4 @@
+﻿  color_ball-base.cpp
+E:\homework\GAMES\五子连珠\color_ball-base.cpp(793,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\homework\GAMES\五子连珠\color_ball-base.cpp(1175,20): warning C4018: “<”: 有符号/无符号不匹配
+  五子连珠.vcxproj -> E:\homework\GAMES\Debug\五子连珠.exe
